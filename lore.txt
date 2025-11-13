@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lore – PABLO ESCOLAR</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="brand.html">Brand Identity</a>
+    <a href="tweets.html">Viral Tweets</a>
+    <a href="lore.html">Lore</a>
+  </nav>
+
+  <div class="container">
+    <header>Lore of <span class="highlight">$PABLO ESCOLAR</span></header>
+    <p>“<span class="highlight">$PABLO ESCOLAR</span> was born during a late-night brainstorming session where a group of friends combined their love for crypto and nostalgia for the Colombian kingpin lore. The result? A memecoin that dances on the line of edgy and hilarious, ready to take the crypto markets by storm with the same wild energy that Escobar brought to the ‘80s. Who knew that crypto could be this spicy?”</p>
+  </div>
+
+  <footer>
+    © 2025 PABLO ESCOLAR – All rights reserved
+  </footer>
+</body>
+</html>
